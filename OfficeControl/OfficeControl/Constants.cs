@@ -6,6 +6,6 @@ namespace OfficeControl
 {
     public class Constants
     {
-        public const string APIKey = ""; 
+        public const string APIKey = "ENTER_API_KEY";
     }
 }
